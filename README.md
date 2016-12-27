@@ -13,5 +13,4 @@ Video's length is 1:07. There  are some really nice runs with 5-8 pits passed. H
 
 As we can see the model outperforms random bot.
 <img src=https://github.com/vary10/2DInfiniteRunner/blob/master/diagram.png>
-I am totally sure, that the model's performance would be much greater, if I made -1 rewards properly:( 
-
+I am totally sure, that the model's performance would be much greater, if I made -1 rewards properly, but I do not have a GPU:(
